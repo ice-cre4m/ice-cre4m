@@ -1,10 +1,16 @@
 <h2 align="center">Hi 👋! My name is icecream.</h2>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alejandramarcelaochoa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=dc8add&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=alejandramarcelaochoa&redirect=true)
+
+
+
 ###
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/76/c6/ef/76c6efb8f1c6471911bf2b49266f4880.gif"  />
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
