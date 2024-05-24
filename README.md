@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ice-cre4m/ice-cre4m/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ice-cre4m/ice-cre4m/blob/output/github-contribution-grid-snake.gif)
 
 ##
