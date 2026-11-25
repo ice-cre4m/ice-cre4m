@@ -53,8 +53,8 @@ I'm a 20-year-old software developer with a passion for crafting applications an
 
 <!-- The Spotify card only loads once the Spotify ID below is replaced with yours. -->
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=alejandramarcelaochoa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=alejandramarcelaochoa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
   </a>
 </p>
 
